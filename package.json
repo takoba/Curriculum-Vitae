@@ -4,7 +4,9 @@
   "description": "takoba/Curriculum-Vitae =====================",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build",
+    "vuepress:dev": "vuepress dev"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/takoba/Curriculum-Vitae/issues"
   },
-  "homepage": "https://github.com/takoba/Curriculum-Vitae#readme"
+  "homepage": "https://github.com/takoba/Curriculum-Vitae#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
 }
