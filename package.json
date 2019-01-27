@@ -1,0 +1,19 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "takoba/Curriculum-Vitae =====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takoba/Curriculum-Vitae.git"
+  },
+  "author": "takoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takoba/Curriculum-Vitae/issues"
+  },
+  "homepage": "https://github.com/takoba/Curriculum-Vitae#readme"
+}
