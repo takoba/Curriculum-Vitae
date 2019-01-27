@@ -1,7 +1,6 @@
 module.exports = {
   title: "takoba's Curriculum Vitae",
   description: '職務経歴書',
-  base: '/Curriculum-Vatae/',
 
   locales: {
     '/': {
