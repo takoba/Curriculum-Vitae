@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/takoba/Curriculum-Vitae#readme",
   "devDependencies": {
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.0.0-alpha.33"
   },
   "dependencies": {}
 }
