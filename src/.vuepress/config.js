@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/Curriculum-Vatae/',
+  base: '/Curriculum-Vitae/',
 
   title: "takoba's Curriculum Vitae",
   description: '職務経歴書',
